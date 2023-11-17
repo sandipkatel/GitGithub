@@ -2,4 +2,4 @@
 this describes my repo
 
 ## Head2
-it is healpful to learn git and github
+it is healpful
